@@ -3,7 +3,7 @@
 # grep -Eo '64523000881@stu\.pim\.ac\.th' email.txt > Sutinee_email.txt
 # grep -Eo 'Sutinee' email.txt > sutinee_name.txt
 # grep -Eo '6452300881' email.txt > sutinee_id.txt
-#git add .
-#git status
-#git commit -m ""
-#git push
+# git add .
+# git status
+# git commit -m ""
+# git push
